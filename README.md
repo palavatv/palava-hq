@@ -4,20 +4,20 @@ This Rails-API app is part of the [palava project](https://palava.tv). However, 
 
 - Leave your e-mail address and receive welcome mail
 - Leave feedback
-- Integration(E2E) tests for the [palava portal](https://github.com/palavatv/portal)
+- Integration(E2E) tests for the [palava portal](https://github.com/palavatv/palava-portal)
 
 ## Running Hints
 
 Use the following ENV vars for configuring:
 
 - `PALAVA_RTC_ADDRESS` Signaling backend to use. Default: "ws:localhost:4233"
-- `PALAVA_PORTAL_DIR` Relative path to the [palava portal](https://github.com/palavatv/portal). Only needed for developing. Default: "../portal"
+- `PALAVA_PORTAL_DIR` Relative path to the [palava portal](https://github.com/palavatv/palava-portal). Only needed for developing. Default: "../portal"
 
 ## Credits
 
 MIT License. Part of the [palava project](https://palava.tv).
 
-Copyright 2013 Jan Lelis       jan@signaling.io
-Copyright 2013 Marius Melzer   marius@signaling.io
-Copyright 2013 Stephan Thamm   thammi@chaossource.net
+Copyright 2013 Jan Lelis       jan@signaling.io <br/>
+Copyright 2013 Marius Melzer   marius@signaling.io <br/>
+Copyright 2013 Stephan Thamm   thammi@chaossource.net <br/>
 Copyright 2013 Kilian Ulbrich  kilian@innovailable.eu
