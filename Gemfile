@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '1.9.3'
 
-gem 'rails', '3.2.15'
+gem 'rails', '3.2.16'
 gem 'rails-api'
 gem 'thin', '~> 1.6.1'
 
