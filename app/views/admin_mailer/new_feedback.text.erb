@@ -1,0 +1,4 @@
+Time: <%= @feedback_entry.c_at.to_s(:db) %>
+
+<%= @feedback_entry.text %>
+<%= render partial: 'shared/mailer/footer' %>

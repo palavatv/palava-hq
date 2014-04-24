@@ -33,6 +33,11 @@ describe FeedbackEntriesController do
       FeedbackEntry.last.by.should == potential
     end
 
+    it 'sends an email to contact@palava.tv' do
+      post :create, params_feedback
+      ActionMailer::Base.deliveries.last.to.should == ['contact@palava.tv']
+    end
+
     it 'renders new json model' do
       post :create, params_feedback
       response.body.should == { feedback_entry: { text: FeedbackEntry.last.text } }.to_json
