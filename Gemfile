@@ -27,7 +27,7 @@ group :development, :test do
   gem 'fabrication'
   # gem 'timecop'
 
-  gem 'debugger'
+  # gem 'debugger'
   gem 'better_errors'
   gem 'binding_of_caller'
   #gem 'foreman' # not compatible with middleman
