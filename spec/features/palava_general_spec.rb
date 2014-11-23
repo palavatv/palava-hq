@@ -28,7 +28,6 @@ describe 'palava | general', :js  do
       info/feedback
       info/contact
       info/error
-      test_room
     )].each { |sub_page|
       context "[#{sub_page}]" do
         before do
