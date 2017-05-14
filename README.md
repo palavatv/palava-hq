@@ -21,7 +21,7 @@ Please report issues to the [palava Repository](https://github.com/palavatv/pala
 
 MIT License. Part of the [palava project](https://palava.tv).
 
-Copyright 2013 Jan Lelis       jan@signaling.io <br/>
-Copyright 2013 Marius Melzer   marius@signaling.io <br/>
-Copyright 2013 Stephan Thamm   thammi@chaossource.net <br/>
+Copyright 2013 Jan Lelis       mail@janlelis.de <br/>
+Copyright 2013 Marius Melzer   marius@rasumi.net <br/>
+Copyright 2013 Stephan Thamm   stephan@innovailable.eu <br/>
 Copyright 2013 Kilian Ulbrich  kilian@innovailable.eu
