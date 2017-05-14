@@ -1,3 +1,7 @@
+**This application is not part of the palava stack anymore.**
+
+Please see the [palava repository](https://github.com/palavatv/palava) for an overview of currently used components. The old README is below.
+
 # Palava HQ
 
 This Rails-API app is part of the [palava project](https://palava.tv). However, you probably will not need to set this one up, when hosting your own palava, since it only adds the following non-WebRTC features:
