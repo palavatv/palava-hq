@@ -13,6 +13,10 @@ Use the following ENV vars for configuring:
 - `PALAVA_RTC_ADDRESS` Signaling backend to use. Default: "ws:localhost:4233"
 - `PALAVA_PORTAL_DIR` Relative path to the [palava portal](https://github.com/palavatv/palava-portal). Only needed for developing. Default: "../portal"
 
+## Issues
+
+Please report issues to the [palava Repository](https://github.com/palavatv/palava/issues).
+
 ## Credits
 
 MIT License. Part of the [palava project](https://palava.tv).
